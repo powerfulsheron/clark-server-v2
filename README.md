@@ -1,5 +1,4 @@
-# node-mongo-registration-login-api
+# clark-server-v2 
 
-NodeJS + MongoDB API for User Management, Authentication and Registration
+Requires mongo
 
-For documentation and instructions check out http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management
