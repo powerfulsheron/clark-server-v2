@@ -2,7 +2,7 @@
 
 ## Requires MondoDB
 
-API requires a Mongo server launched, you can configure the url in the `config.json` file.
+API requires a MongoDB server launched, you can configure the url in the `config.json` file.
 
 ## Available Scripts
 
